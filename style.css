@@ -17,27 +17,27 @@ height:100%;
 
 #personImage{
 position:absolute;
-top:330px;
-left:820px;
-width:280px;
-height:280px;
+top:120px;
+left: 1330px;
+width:450px;
+height:560px;
 object-fit:cover;
 border-radius:20px;
 }
 
 #personName{
 position:absolute;
-top:650px;
-left:760px;
+top:710px;
+left: 1460px;
 font-size:60px;
-color:white;
+color:rgb(0, 0, 0);
 font-weight:bold;
 }
 
 #personBranch{
 position:absolute;
-top:740px;
-left:820px;
+top: 780px;
+left:1500px;
 font-size:40px;
-color:white;
+color:rgb(0, 0, 0);
 }

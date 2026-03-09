@@ -1,4 +1,4 @@
-const SHEET_ID = "1uKnzzVcHxa5WoNkiODctUd28W7kA6xnATFNQ9O64fNc";
+const SHEET_ID = "1AlMQ26elp4j5PRc2__tI7HcxMRpxU7A9Rag8Ljeuz2U";
 const url = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:json`;
 
 async function loadBirthdays() {
